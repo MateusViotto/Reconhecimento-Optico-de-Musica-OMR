@@ -1,0 +1,1 @@
+Download the semantic model from https://grfia.dlsi.ua.es/primus/models/PrIMuS/Semantic-Model.zip, and put its contents inside this folder
